@@ -8,7 +8,7 @@ output:
 
 ![My Image](RR.png)
 
-##Shortest Job First (SJF) Scheduling
+## Shortest Job First (SJF) Scheduling
 
 output:
 
