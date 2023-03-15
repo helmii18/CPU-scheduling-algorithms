@@ -5,8 +5,11 @@ This project contains Java implementations of two CPU scheduling algorithms: Rou
 ## Round Robin (RR) Scheduling
 
 output:
-RR.png
+
+![My Image](RR.png)
+
 ##Shortest Job First (SJF) Scheduling
 
 output:
-SJF.png
+
+![My Image](SJF.png)
